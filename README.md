@@ -35,12 +35,12 @@ Brief description of this project and its features.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdu-ar3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdu-ar3-offer/)
 - Twitter: [Your Twitter](https://twitter.com/yourusername)
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
 
@@ -57,4 +57,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-⭐️ From [Abdu Rohman](https://github.com/yourusername)
+⭐️ From [Abdu Rohman](https://github.com/abdu-ar3)
