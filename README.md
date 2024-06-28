@@ -10,8 +10,8 @@ I'm a passionate web developer specializing in Laravel. I enjoy creating web app
 - 🌱 I’m currently learning [Laravel Framework]
 - 💬 Ask me about anything related to Laravel, PHP, or web development
 - 📫 How to reach me: [abdhurohman7@gmail.com]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: []
+- 😄 Pronouns: [He]
+- ⚡ Fun fact: [I love the world of technology and am studying APIs]
 
 ## 🛠️ Technologies & Tools
 
@@ -27,11 +27,12 @@ I'm a passionate web developer specializing in Laravel. I enjoy creating web app
 
 ## 🚀 Projects
 
-### [](https://github.com/yourusername/projectname)
-Brief description of the project and what it does.
+### [SiReport](https://github.com/abdu-ar3/SiReport)
+SiReport
+Sisten Informasi To Do list Report
 
-### [](https://github.com/yourusername/anotherproject)
-Brief description of this project and its features.
+### [WeSmart](https://github.com/abdu-ar3/wesmart)
+Wesmart is an information system that guarantees online book data designated for reading parks in Tangerang
 
 ## 📈 GitHub Stats
 
@@ -41,7 +42,6 @@ Brief description of this project and its features.
 ## 📫 Get in Touch
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdu-ar3-offer/)
-- Twitter: [Your Twitter](https://twitter.com/yourusername)
 - Portfolio: [Your Portfolio](https://yourportfolio.com)
 
 ## 📝 Recent Blog Posts
